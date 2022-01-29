@@ -1,4 +1,4 @@
-## Welcome to Group 40
+# 40 Below
 
 ### Members
 - Alex Nechyporenko
@@ -16,3 +16,6 @@ Section for assignment 2
 
 ### A3
 Section for assignment 3
+
+## Relevant Links
+Section for relevant links and other documentation
