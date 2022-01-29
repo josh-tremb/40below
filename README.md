@@ -1,4 +1,4 @@
-# 40 Below
+# Welcome to Group 40
 
 ### Members
 - Alex Nechyporenko
