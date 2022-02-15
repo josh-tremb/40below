@@ -6,7 +6,6 @@
 - Josh Tremblay
 - Kennan Bays
 - Mason Choi
-- Philippe Rivet
 
 ## A1
 Section for assignment 1
