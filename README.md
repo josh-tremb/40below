@@ -8,7 +8,8 @@
 - Mason Choi
 
 ## A1
-Section for assignment 1
+Presentation slides can be found [here](https://github.com/josh-tremb/40below/blob/main/A1/a1_presentation.pptx) <br>
+Full report can be found [here](https://github.com/josh-tremb/40below/blob/main/A1/A1%20Apollo%20Conceptual%20Architecture%20Report.pdf)
 
 ## A2
 Section for assignment 2
