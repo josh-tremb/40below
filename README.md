@@ -12,7 +12,8 @@ Presentation slides can be found [here](A1/a1_presentation.pdf) <br>
 Full report can be found [here](A1/a1_report.pdf)
 
 ## A2
-Section for assignment 2
+Presentation slides can be found [here](A2/a2_presentation.pdf) <br>
+Full report can be found [here](A2/a2_report.pdf)
 
 ## A3
 Section for assignment 3
